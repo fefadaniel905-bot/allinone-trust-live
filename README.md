@@ -1,1 +1,1 @@
-# allinone-trustt
+# allinonetrust
